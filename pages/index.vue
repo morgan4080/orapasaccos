@@ -11,7 +11,7 @@
         <p class="mt-2 text-3xl font-extrabold text-blue-500 tracking-normal sm:text-4xl">
           Digital Solutions
         </p>
-        <div class="-mx-px pt-12 grid grid-cols-2 sm:mx-0 md:grid-cols-3 md:gap-28">
+        <div class="-mx-px pt-12 grid grid-cols-2 gap-2 sm:mx-0 md:grid-cols-3 md:gap-28">
           <div class="relative rounded-tr-3xl">
             <div class="z-10 ml-1 mt-1 w-36 rounded-tr-3xl h-32 bg-blue-200 shadow-lg"></div>
             <div class="absolute top-0 z-20 w-36 rounded-tr-3xl h-32 bg-white flex flex-col justify-center items-center">
