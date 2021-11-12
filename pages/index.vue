@@ -55,7 +55,7 @@
             <div class="absolute top-0 z-20 w-36 rounded-tr-3xl h-32 bg-white flex flex-col justify-center items-center">
               <svg xmlns="http://www.w3.org/2000/svg" class="w-10 h-10" width="85.017" height="60.057" viewBox="0 0 85.017 60.057"><path d="M481.44,107.5q9.05,15.905,18.091,31.815c1.037,1.83,1.968,3.721,3.184,6.029h-9.191c-3.256-5.6-6.571-11.165-9.747-16.806-3.931-6.979-7.747-14.023-11.613-21.038Z" transform="translate(-445.552 -107.5)" fill="#27627e"/><path d="M159.441,283.67c9.455-16.377,18.679-32.446,28.384-49.257l4.516,7.309c-8,13.906-15.972,27.582-24.232,41.948Z" transform="translate(-159.441 -223.613)" fill="#829da9"/><path d="M595.894,593.584l-4.258,7.346h-48.07l4.08-7.346Z" transform="translate(-510.877 -552.22)" fill="#489aab"/><path d="M679.279,190.391h-9.5l-19.292-33.627h9.451Z" transform="translate(-608.701 -152.572)" fill="#27627e"/><path d="M338.253,367.511l4.417,7.54c-5.743,9.957-11.571,20.208-17.444,30.39h-8.59C323.917,392.715,330.842,380.464,338.253,367.511Z" transform="translate(-303.259 -345.385)" fill="#829da9"/><path d="M470.63,731.324h38.151l-3.994,6.971H466.839Z" transform="translate(-440.68 -678.239)" fill="#489aab"/></svg>
               <p class="font-semibold text-sm text-gray-600 pt-2">Presta Plus</p>
-              <a target="_blank" rel="noreferrer noopener" href="https://app.presta.co.ke" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
+              <a target="_blank" rel="noreferrer noopener" href="https://lending.presta.co.ke" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
             </div>
           </div>
 
@@ -86,6 +86,6 @@
 </template>
 <script>
 export default {
-  transition: "slide-bottom"
+  transition: 'slide-bottom'
 }
 </script>
