@@ -19,7 +19,7 @@
               <p class="font-semibold text-sm text-gray-600 pt-2">
                 CRM
               </p>
-              <a target="_blank" rel="noreferrer noopener" href="https://crm.zoho.com" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
+              <a target="_blank" rel="noreferrer noopener" href="https://accounts.zoho.com/signin?servicename=ZohoCRM&https://www.zoho.com/crm/signup.html?plan=enterprise" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
             </div>
           </div>
 
