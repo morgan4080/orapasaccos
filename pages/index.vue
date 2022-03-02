@@ -3,7 +3,7 @@
     <div class="absolute top-0 right-0 w-xss h-xss bg-gradient-to-r from-amber-500 via-amber-600 to-amber-700 rounded-bl-full" />
     <div class="md:px-20 py-10 flex flex-col items-center justify-center relative">
       <div class="absolute inset-0 left-8 top-5">
-        <img class="w-24" src="~/static/logo.png" alt="logo">
+        <img class="w-24" src="~/static/logo.png" alt="logo-static">
       </div>
       <div class="w-full flex flex-col items-center justify-center pt-20">
         <p class="mt-2 text-3xl font-extrabold text-blue-500 tracking-normal sm:text-4xl">
