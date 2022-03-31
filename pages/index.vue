@@ -147,7 +147,7 @@
               <p class="font-semibold text-sm text-gray-600 pt-2">
                 Loan Calculator.
               </p>
-              <a target="_blank" rel="noreferrer noopener" href="https://www.presta.co.ke/loan-calculator/" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
+              <a target="_blank" rel="noreferrer noopener" href="https://lending.presta.co.ke/loan-calculator/" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
             </div>
           </div>
         </div>
