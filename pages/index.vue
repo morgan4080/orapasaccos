@@ -1,6 +1,6 @@
 <template>
   <div class="relative">
-    <div class="absolute top-0 right-0 w-xss h-xss bg-gradient-to-r from-yellow-500 via-yellow-600 to-orapa rounded-bl-full" />
+    <div class="absolute top-0 right-0 w-xss h-xss bg-gradient-to-r from-orapa via-orapa to-orapa rounded-bl-full" />
     <div class="md:px-20 py-10 flex flex-col items-center justify-center relative">
       <div class="absolute inset-0 left-8 top-5">
         <img class="w-24" src="~/static/logo.png" alt="logo-static">
@@ -99,7 +99,7 @@
               <p class="font-semibold text-sm text-gray-600 pt-2">
                 Bulk SMS.
               </p>
-              <a target="_blank" rel="noreferrer noopener" href="https://app.smsleopard.com/accounts/login" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
+              <a target="_blank" rel="noreferrer noopener" href="#" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
             </div>
           </div>
 
@@ -117,7 +117,7 @@
               <p class="font-semibold text-sm text-gray-600 pt-2">
                 Appraisal
               </p>
-              <a target="_blank" rel="noreferrer noopener" href="https://app.smsleopard.com/accounts/login" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
+              <a target="_blank" rel="noreferrer noopener" href="#" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
             </div>
           </div>
 
@@ -128,13 +128,13 @@
               <p class="font-semibold text-sm text-gray-600 pt-2">
                 Agents Mgt.
               </p>
-              <a target="_blank" rel="noreferrer noopener" href="https://app.smsleopard.com/accounts/login" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
+              <a target="_blank" rel="noreferrer noopener" href="#" class="text-blue-600 text-xs pt-4">→ OPEN APP</a>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="absolute bottom-0 left-0 w-xss h-xss bg-gradient-to-r from-orapa via-yellow-600 to-yellow-500 rounded-tr-full" />
+    <div class="absolute bottom-0 left-0 w-xss h-xss bg-gradient-to-r from-orapa via-orapa to-orapa rounded-tr-full" />
   </div>
 </template>
 <script>
