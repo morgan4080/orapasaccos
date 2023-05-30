@@ -17,7 +17,8 @@ module.exports = {
       white: colors.white,
       green: colors.green,
       gray: colors.trueGray,
-      pink: colors.pink
+      pink: colors.pink,
+      yellow: colors.yellow
     },
     extend: {
       height: {
@@ -29,6 +30,9 @@ module.exports = {
         xx: '14%',
         xs: '10%',
         xss: '6.66%'
+      },
+      colors: {
+        orapa: '#9AAE4F'
       }
     }
   },
